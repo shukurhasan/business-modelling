@@ -1,4 +1,4 @@
-# Market Modelling: R code
+# Business Modelling: R code
 
 Code that accompanies the blog **Market Modelling**, where I explain how
 market modelling can shape business decisions, with stories of famous decisions 
